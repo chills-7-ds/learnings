@@ -1,0 +1,16 @@
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VSCode settings
+.vscode/
+
+# Environment folders
+env/
+venv/
+
+# macOS files
+.DS_Store
