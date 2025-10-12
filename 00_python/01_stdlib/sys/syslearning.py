@@ -25,5 +25,6 @@ These are the core 6 modules in the sys library. There are many more functions a
 
 https://dramatic-psychology-0d8.notion.site/Sys-28903656c6c380028480fbe27aa07c10?source=copy_link
 
-the above link is my notion page which contains all the important functions regarding sys module in python.
+the above link is my notion page which contains all the important functions regarding sys module in python. 
+(90% of them are covered other 10% commands are used for engineers who write tools that control Python itself or shell environments)
 """
