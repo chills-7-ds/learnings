@@ -16,3 +16,7 @@ print(f"Hello, {args.name}! You are {age_display} years old.")
 if args.shout:
     print(f"HELLO, {args.name.upper()}! YOU ARE {str(age_display).upper()} YEARS OLD.")
 
+"""
+the below link is my notion page which contains all the important functions regarding argparse module in python.
+https://dramatic-psychology-0d8.notion.site/Argparse-28b03656c6c380c184efc2c4b5726158?source=copy_link
+"""
